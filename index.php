@@ -68,7 +68,9 @@
 
 			<!--footer starts here-->
 			<div id="footer">
-
+				<p>
+					<a href="https://github.com/djomp/PHP-tuckbox-generator">https://github.com/djomp/PHP-tuckbox-generator</a>
+				</p>
 			</div>
 
 	<!-- wrap ends here -->
